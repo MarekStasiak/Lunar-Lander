@@ -8,8 +8,7 @@ import javax.swing.JComponent;
 
 /**
  * Klasa zajmująca się pobraniem z pliku i wyświetleniem tła gry - gwieździstego nieba.
- * @author Marek
- *
+ * @author Marek & Łukasz
  */
 
 public class Background extends JComponent{
